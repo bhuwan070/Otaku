@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /admin
+allow: /
+Sitemap: https://otaku-festival.com/sitemap.xml
